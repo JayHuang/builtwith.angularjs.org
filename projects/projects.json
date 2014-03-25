@@ -1,6 +1,90 @@
 {
   "featured": "YouTube on PS3",
   "projects": [
+  {
+    "name": "DBFreebies",
+    "thumb": "dbfreebies/thumb.png",
+    "desc": "A place to download the best freebies design resources from Dribbble and Behance.",
+    "url": "http://dbfreebies.co",
+    "submitter": "winstef",
+    "submissionDate": "2014-03-10",
+    "tags": [
+      "Production",
+      "Listing",
+      "Bootstrap",
+      "Local Storage",
+      "jQuery",
+      "JSON",
+      "API"
+    ]
+  },
+  {
+    "name": "buzzlike",
+    "thumb": "buzzlike/thumb.png", 
+    "desc": "Digital content interaction tool",
+    "url": "http://buzzlike.pro",
+    "info": "http://buzzlike.pro/#/about/project",
+    "submitter": "buzzlike",
+    "submissionDate": "2014-03-25",
+    "tags": [
+      "Production",
+      "Social media", "Delayed posting", "Content management", "Community management", "Content interaction",
+      "CSS3D", "Local Storage", "CSS Filters", "File Api", "Coffeescript", "Jade", "Stylus"
+      "jQuery"
+    ]
+  },
+  {
+    "name": "hya.io",
+    "thumb": "hya.io/thumb.png",
+    "desc": "Plugin-based, HTML5 Digital Workstation for the web, with MIDI and public patches.",
+    "url": "http://hya.io",
+    "info": "http://blog.hya.io",
+    "submitter": "janesconference",
+    "submissionDate": "2014-02-25",
+    "tags": [
+      "Production",
+      "DAW",
+      "Audio",
+      "Music",
+      "Local Storage",
+      "Audio Api",
+      "Web Audio API",
+      "jspm",
+      "Web MIDI Api",
+      "jQuery",
+      "Bootstrap",
+      "jsPlumb"
+     ]
+    },
+    {
+      "name": "Redbeacon Experts",
+      "thumb": "redbeacon-experts/thumb.png",
+      "desc": "A Q&A site for home improvement questions. Get free home advice from Redbeacon experts within 24 hours.",
+      "url": "https://www.redbeacon.com/experts",
+      "submitter": "clark-duvall",
+      "submissionDate": "2013-12-16",
+      "tags": [
+        "Production",
+        "Responsive",
+        "Bootstrap",
+        "SASS",
+        "jQuery",
+        "Home Improvement",
+        "Django"
+      ]
+    },
+    {
+      "name": "VEVO",
+      "thumb": "vevo/thumb.png",
+      "desc": "VEVO is the world’s leading all-premium music video and entertainment platform with over 5 billion monthly views globally.",
+      "url": "http://vevo.com",
+      "submitter": "michaelfillier",
+      "submissionDate": "2014-01-08",
+      "tags": [
+        "Production",
+        "Entertainment"
+      ]
+    },
     {
       "name": "Fitblok",
       "thumb": "fitblok/thumb.png",
@@ -1521,23 +1605,6 @@
       ]
     },
     {
-      "name": "LicensingJS", 
-      "thumb": "licensingjs/thumb.png", 
-      "desc": "Full crud app that tracks Contractor and Business Licenses using Angular, Breeze, toastr and WebApi, deployed on Azure",
-      "url": "http://licensingjs.azurewebsites.net/", 
-      "info": "http://plus.google.com/u/0/102437918402681897261/", 
-      "submitter": "mgbee8", 
-      "submissionDate": "2013-03-22",
-      "tags": [
-        "Demo",
-        "CRUD",
-        "Breeze",
-        "Web Api",
-        "Angular UI",
-        "jQuery"
-      ]
-    },
-    {
       "name": "Zaptravel",
       "thumb": "zaptravel/thumb.png",
       "desc": "Zaptravel connects you to great inspiring travel deals based on what you want to experience.",
@@ -1691,8 +1758,223 @@
         "Education",
         "Animations"
         "jQuery",
+        "Open Source"
+      ]
+    },
+    {
+      "name": "NewlyWish",
+      "thumb": "newlywish/thumb.png",
+      "desc": "NewlyWish is a simple and managed registry experience for the modern couple.",
+      "url": "https://www.newlywish.com",
+      "info": "http://www.newlywish.com/about",
+      "submitter": "ienders",
+      "submissionDate": "2014-02-04",
+      "tags": [
+        "Production",
+        "Ecommerce",
+        "Bootstrap",
+        "Rails",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "Smoothie",
+      "thumb": "smoothie/thumb.png",
+      "desc": "Play music as your mood goes",
+      "url": "http://sonnylab.com/smoothie/public",
+      "src": "http://sonnylab.com/smoothie/public",
+      "submitter": "sonnylazuardi",
+      "submissionDate": "2014-02-09",
+      "tags": [
+        "Player",
+        "Sound",
+        "Mood",
+        "Music",
+        "Stereomood",
+        "HTML5",
+        "CSS3",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "WorkHourGlass",
+      "thumb": "workhourglass/thumb.png",
+      "desc": "A productivity tool to see how many work hours are left for you to be productive today, this week, month and year.",
+      "url": "http://www.workhourglass.com/",
+      "submitter": "Toodledo",
+      "submissionDate": "2014-02-12",
+      "tags": [
+        "Production",
+        "Productivity",
+        "Bootstrap", "Local Storage",
+        "jQuery",
+        "Time Management","Planning"
+      ]
+    },
+    {
+      "name": "Confr",
+      "thumb": "confr/thumb.png",
+      "desc": "The world's most simple and easy to use conference tool. Sign up and invite to your first conference within seconds.",
+      "url": "https://confr.com/",
+      "info": "http://blog.confr.com/",
+      "submitter": "grEvenX",
+      "submissionDate": "2014-02-21",
+      "tags": [
+        "Mobile",
+        "Responsive",
+        "Meetings",
+        "Phone",
+        "Conferencing",
+        "Productivity",
+        "Production",
+        "Startups",
+        "Local Storage",
+        "RESTful"
+      ]
+    },
+    {
+      "name": "Mealshaker",
+      "thumb": "mealshaker/thumb.png",
+      "desc": "The app you can shake to find a place to eat. Shake your device and get the place where you should go.",
+      "url": "http://mealshaker.com/",
+      "info": "http://facebook.com/mealshaker",
+      "submitter": "grEvenX",
+      "submissionDate": "2014-02-21",
+      "tags": [
+        "Production",
+        "Food",
+        "Animations",
+        "No jQuery",
+        "Mobile",
+        "Cordova",
+        "Responsive",
+        "iOS",
+        "Geolocation API",
+        "Tests Included"
+      ]
+    },
+    {
+      "name": "Wamba Dating Service",
+      "thumb": "m.wamba.com/thumb.png",
+      "desc": "Mobile-oriented version of big dating service.",
+      "url": "http://m.wamba.com/",
+      "submitter": "bullgare",
+      "submissionDate": "2014-02-19",
+      "tags": [
+        "Production",
+        "CRUD", "Entertainment",
+        "Animations", "Local Storage", "AppCache", "Mobile",
+        "No jQuery",
+        "Dating"
+      ]
+    },
+    {
+      "name": "HTML5 Ninja",
+      "thumb": "html5-ninja/thumb.png",
+      "desc": "html5-ninja.com is a marketplace where authors & designers propose their creations (themes, scripts... ) for selling.",
+      "url": "http://html5-ninja.com",
+      "info": "http://html5-ninja.com/#about",
+      "submitter": "html5-ninja",
+      "submissionDate": "2013-10-23",
+      "tags": [
+        "Production",
+        "HTML5 marketplace", "freelancing", "web development",
+        "HTML5", "CSS3", "Bitcoin",
+        "No jQuery"
+      ]
+    },
+    {
+      "name": "AffableBean",
+      "thumb": "affablebean/thumb.png",
+      "desc": "E-commerce sample application based on 'The NetBeans E-commerce Tutorial'",
+      "src": "https://github.com/osmanpub/affablebean.git",
+      "url": "https://sylvan-cycle-510.appspot.com/index2.html",
+      "submitter": "osmanpub",
+      "submissionDate": "2014-03-08",
+      "tags": [
+        "CRUD",
+        "E-commerce",
         "Open Source",
+        "Bootstrap",
+        "Java",
+        "MySQL",
+        "jQuery",
+        "HTML5",
+        "CSS3"
+      ]
+    },
+    {
+      "name": "OverTask",
+      "thumb": "overtask/thumb.png",
+      "desc": "OverTask is a Chrome New Tab Page extension that automatically organizes your online information based on the task you are working on.",
+      "url": "https://chrome.google.com/webstore/detail/overtask/oeiijfgmbaopeehamdhiiepidbpfkcda",
+      "info": "http://chrome.overtask.me",
+      "submitter": "TheAncientGoat",
+      "submissionDate": "2014-03-09",
+      "tags": [
+	"Production",
+        "Productivity",
+	"Local Storage","IndexDB",
+	"No jQuery",
+        "Chrome",
+        "Extension",
+        "To-Do"
+      ]
+    },
+    {
+      "name": "Configure your own MINI.",
+      "thumb": "mini-configurator/thumb.png",
+      "desc": "Design and customise a MINI to make it your own. Choose from the entire MINI range.",
+      "url": "http://www.mini.co.uk/design-your-mini",
+      "submitter": "luakri",
+      "submissionDate": "2014-03-11",
+      "tags": [
+        "Production",
+        "HTML5",
+        "CSS3",
+        "Animations",
+        "AngularJS",
+        "SASS"
+      ]
+    },
+    {
+      "name": "Crunchinator",
+      "thumb": "crunchinator/thumb.png",
+      "desc": "Interactively slice, filter and research Crunchbase data.",
+      "url": "http://crunchinator.com",
+      "info": "http://cloudspace.com/blog/2014/03/19/announcing-the-crunchinator/",
+      "src": "https://github.com/cloudspace/angular.crunchinator.com",
+      "submitter": "cloudspace",
+      "submissionDate": "2014-03-20",
+      "tags": [
+        "Production",
+        "Productivity",
+        "Open Source",
+        "D3.js",
+        "Crossfilter",
+        "Startups",
+        "Investors"
+      ]
+    },
+    {
+      "name": "TripInView",
+      "thumb": "tripinview/thumb.png",
+      "desc": "Tripinview is a next generation platform for visually discovering authentic destinations and unique traveling ideas.",
+      "url": "http://tripinview.com",
+      "info": "http://tripinview.com/#/about_us",
+      "submitter": "belonious",
+      "submissionDate": "2014-03-21",
+      "tags": [
+        "AngularJS",
+        "Production",
+        "Bootstrap",
+        "jQuery",
+        "CSS3",
+        "Tourism",
+        "Travel",
+        "Booking"
       ]
     }
+
   ]
 }
